@@ -8,7 +8,7 @@ When using the AdaBoost classifier to generate the decision tree, the settings w
 This project was done to gain a better understanding of Machine Learning, Data Mining, and Python libraries.
 
 Results:             
-![image](https://user-images.githubusercontent.com/63169963/221048571-9c03e5f1-c7dc-4915-a68e-80cd296cbb69.png)
+![image](https://user-images.githubusercontent.com/63169963/221049985-218d4d92-11a2-402e-a6b3-731084e03d29.png)
 
 
 
