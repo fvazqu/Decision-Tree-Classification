@@ -5,7 +5,7 @@ In this project, I built and optimized a Decision Tree Classifier using the Pyth
 Notes:                             
 The 11th Column of the Poker Hand data set was set as the target variable when splitting the data. This column was changed to binary to show two different classes: 0 meaning nothing in hand, and nonzero being 1 to 9.
 When using the AdaBoost classifier to generate the decision tree, the settings were set to 15 iterations and 42 random states.
-This project was done to gain a better understanding of Machine Learning, Data Mining, and using Python.
+This project was done to gain a better understanding of Machine Learning, Data Mining, and Python libraries.
 
 Results:             
 ![image](https://user-images.githubusercontent.com/63169963/221048571-9c03e5f1-c7dc-4915-a68e-80cd296cbb69.png)
