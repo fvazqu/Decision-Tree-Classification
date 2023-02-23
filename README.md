@@ -8,7 +8,7 @@ The 11th Column of the Poker Hand data set was set as the target variable when s
 When using the AdaBoost classifier to generate the decision tree, the settings were set to 15 iterations and 42 random states.
 
 
-References:
+References: \n
 The training and testing data sets:
 https://archive.ics.uci.edu/ml/machine-learning-databases/poker/
 
